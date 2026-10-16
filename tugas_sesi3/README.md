@@ -1,17 +1,34 @@
-# tugas_sesi3
+# Tugas Sesi 3 - Pemrograman Mobile
 
-A new Flutter project.
+Project Flutter untuk tugas pertemuan 3 pada mata kuliah Pemrograman Mobile.
 
-## Getting Started
+## Deskripsi
 
-This project is a starting point for a Flutter application.
+Project ini dibuat menggunakan Flutter sebagai bagian dari pembelajaran pengembangan aplikasi mobile.
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Android Studio
+- Visual Studio Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Struktur Project
+
+Project ini berisi source code aplikasi Flutter beserta konfigurasi dan file pendukung yang diperlukan untuk menjalankan aplikasi.
+
+## Cara Menjalankan
+
+1. Pastikan Flutter sudah terinstall.
+2. Clone repository ini.
+3. Masuk ke folder project.
+4. Jalankan perintah:
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Status
+
+Project tugas Sesi 3 - Pemrograman Mobile.
